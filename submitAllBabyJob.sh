@@ -1,7 +1,9 @@
 #! /bin/bash
 
-./submitBabyJob.sh cfg/zgamma.sh
-./submitBabyJob.sh cfg/wgamma.sh
+# ./submitBabyJob.sh cfg/zgamma.sh
+# ./submitBabyJob.sh cfg/wgamma.sh
+# ./submitBabyJob.sh cfg/wjets.sh
+
 ./submitBabyJob.sh cfg/wjets.sh
 
 # ./submitBabyJob.sh cfg/GJets_HT-200To400_8TeV-madgraph_v2_Summer12_DR53X-PU_S10_START53_V7A-v1.sh
